@@ -1,5 +1,6 @@
 Buatlah query SQL untuk memasukkan data-data berikut ke tabel dosen di bawah ini;
 ![Screenshot tabel sql](https://github.com/BintangValc0n/QuerySQL/assets/150910792/c1f13a8a-bdf7-4f7a-b13f-f475cacf983a)
+
 INSERT INTO `dosen`(`Nomor induk`, `Nama`, `Jenis Kelamin`,
 `Nomor Telepon`, `Pendidikan Terakhir`) VALUES
 ('SR299100','Tessy Wahyuni Riwayati Hartati','B','(021)8889928',
